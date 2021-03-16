@@ -19,6 +19,6 @@ public class Task_04 {
                 }
             }
         }
-        System.out.println(count); // 2396
+        System.out.println(count);
     }
 }
